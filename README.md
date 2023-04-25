@@ -26,7 +26,7 @@ Execute the program.
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - MALARVIZHI G (22008650)</b></caption>
+<caption><b>SLOT TIME TABLE - TEJASWINI G (22004187)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -110,6 +110,9 @@ Execute the program.
 </html>
 ```
 # OUTPUT:
+![Screenshot (70)](https://user-images.githubusercontent.com/121222763/234344482-2d7b7537-9488-4a79-905f-374e502e0205.png)
+# HTML VALIDATOR:
+![Screenshot (71)](https://user-images.githubusercontent.com/121222763/234344622-74945097-2cb3-484d-8b75-b350ae1d4471.png)
 
 # RESULT:
 The program for creating slot timetable using basic HTML tags is executed successfully.
